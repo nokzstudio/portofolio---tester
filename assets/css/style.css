@@ -4303,11 +4303,11 @@ input:focus, select:focus, textarea:focus, .form-control:focus {
 }
 .slide-har.st1 .box {
   position: relative;
-  animation: slide-har 10s linear infinite;
+  animation: slide-har 5s linear infinite;
 }
 .slide-har.st2 .box {
   position: relative;
-  animation: slide-har-revers 10s linear infinite;
+  animation: slide-har-revers 5s linear infinite;
 }
 
 @keyframes slide-har {
